@@ -208,6 +208,7 @@ DEPENDENCIES
   pg
   puma (~> 4.1)
   rails (~> 6.0.1)
+  rb-fsevent
   sass-rails (>= 6)
   selenium-webdriver
   spring
